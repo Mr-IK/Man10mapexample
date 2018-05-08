@@ -1,0 +1,10 @@
+name: Man10mapsample
+version: ${project.version}
+main: red.man10.man10mapsample.Man10mapsample
+authors: [Mr_IK]
+description: Man10mapsample
+commands:
+  mmap:
+    description: man10pvpscore_maincommand
+    usage: /<command>
+    default: op
